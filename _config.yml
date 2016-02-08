@@ -1,0 +1,28 @@
+name: Manifesto
+favicon: null
+layout_spectrum: 0.14552890323102474
+typography_spectrum: 0.2025147348176688
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5907516099978238
+  lightness: 0.7219170308671892
+  saturation: 0.6000043000094593
+  rhythmicContrast: 0.8339962367899716
+purpose: []
