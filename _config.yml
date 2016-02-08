@@ -2,12 +2,13 @@ name: Manifesto
 favicon: null
 layout_spectrum: 0.1255
 typography_spectrum: 0.7187
+title: Helping men fulfill their intrinsic calling
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-17849267-9
   facebook: null
   twitter: null
 opengraph:
