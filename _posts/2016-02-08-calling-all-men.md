@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-08T17:34:52.357Z'
-dateModified: '2016-02-08T17:34:21.133Z'
+description: Holy Manifesto - Chapter I
+datePublished: '2016-02-09T05:34:27.271Z'
+dateModified: '2016-02-09T05:34:23.970Z'
 title: Calling all Men
 author: []
+sourcePath: _posts/2016-02-08-calling-all-men.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-08-calling-all-men.md
-published: true
 url: calling-all-men/index.html
 _type: Article
 
